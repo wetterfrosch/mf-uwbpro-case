@@ -1,5 +1,5 @@
 # mf-uwbpro-case
-a 3D-printable case for Makerfabs ESP32-UWB-Pro
+a 3D-printable case for Makerfabs ESP32-UWB-Pro made with OpenSCAD.
 
 ## specs
 * intended device: [ESP32 UWB Pro](https://www.makerfabs.com/esp32-uwb-high-power-120m.html)
